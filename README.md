@@ -2,7 +2,7 @@
 
 # 📊 Dashboard de Análise de Dados com IA
 
-<<<<<<< HEAD
+
 Este é um **dashboard interativo** desenvolvido em **Python** usando **Streamlit**, que permite:  
 ✅ **Upload de arquivos CSV** 📂  
 ✅ **Visualização de dados** em tabelas e gráficos 📈  
