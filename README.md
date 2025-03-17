@@ -1,9 +1,9 @@
-# 📊 Dashboard de Análise de Dados com IA
+#  Dashboard de Análise de Dados com IA
 
 Este é um dashboard interativo para análise de dados e previsão com Inteligência Artificial.  
 O projeto permite **upload de arquivos CSV**, **visualização gráfica** e **previsão de tendências usando diferentes modelos de IA**.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Python**
 - **Streamlit**
 - **Pandas**
