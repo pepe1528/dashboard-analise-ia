@@ -44,7 +44,7 @@ dashboard-analise-ia/ │── src/
 ### 🛠 **Como Instalar e Rodar o Projeto**
 ### **1️⃣ Clonar o Repositório**
 ```bash
-git clone https://github.com/pepe1528/dashboard-analise-ia.git
+git clone https://github.com/pedroocastilho/dashboard-analise-ia.git
 cd dashboard-analise-ia
 
 
@@ -93,7 +93,7 @@ Possíveis Melhorias Futuras
  Contato
 Caso tenha alguma dúvida, entre em contato:
 📩 Email: pedrocastilho15@hotmail.com.br
-🔗 GitHub: github.com/pepe1528
+🔗 GitHub: https://github.com/pedroocastilho
 🔗 LinkedIn: https://www.linkedin.com/in/pedro-castilho-b03120356/
 
 Se gostou do projeto, deixe uma ⭐ no repositório!
